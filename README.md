@@ -1,6 +1,6 @@
 # Overview 
 
-Credit Scoring application utilizing Machine Learning techniques.
+Analyze Machine Learning applications for credit score situations
 
 ---
 
